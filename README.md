@@ -1,0 +1,2 @@
+# feladatok
+Szgraf gyakorlat
